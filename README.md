@@ -6,8 +6,11 @@
 
 Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top generative ai tools and LLMs. Eager to contribute or feature your product? Send a PR to this repo—it's free! Join my growing AI list of products and stay on the edge of innovation.
 
+We publish regular updates of this repo in the [Altern Newsletter](http://newsletter.altern.ai). [Subscribe](http://newsletter.altern.ai) for the latest AI news and discover the best AI tools.
+
 ## Contents
 
+- [🌟 Editor's Choice](#editors-choice)
 - [📝 AI Text](#text)
 - [👩‍💻 Code with AI](#code)
 - [🖼️ Generative AI Images ](#image)
@@ -15,9 +18,21 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [🎶 Generative AI Audio](#audio)
   - [Voice Cloning](#ai-voice-cloning)
   - [Music Generation](#ai-music-generation)
+- [🎯 AI Tools for Marketing](#marketing-ai-tools)
 - [📞 AI Phone Call Agents](#phone-calls)
 - [🎒 Other AI Tools](#other)
 - [👩‍🏫 Learning resources](#learning-resources)
+
+
+## Editor's Choice
+
+- [Altern](https://altern.ai) - find almost anything related to AI
+- [Momen](https://momen.app/ai?utm_source=altern&utm_medium=platform&utm_campaign=ai) - Build and Deploy AI Apps & Agents for Your Business
+- [Notion AI](https://affiliate.notion.so/9po6cx7rvdr6-4y5a7) - Just ask Q&A, and find the info you need in seconds. Get help writing and brainstorming in Notion, not in a separate browser tab.
+- [Murf AI](https://get.murf.ai/v8i9to5ad4oq) - Create voiceover with the most lifelike AI voices.
+- [SaneBox](https://try.sanebox.com/yzkpe5s68xk2) - an email management software as a service that integrates with IMAP and Exchange Web Services email accounts.
+- [MeetGeek](https://get.meetgeek.ai/zmrnb5xlyfs9) - an AI meeting assistant that automatically video records, transcribes, summarizes, and provides the key points from every meeting.
+
 
 
 ## Text
@@ -130,6 +145,7 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Chat With PDF by Copilot.us](https://copilot.us/apps/chat-with-pdf) - An AI app that enables dialogue with PDF documents, supporting interactions with multiple files simultaneously through language models.
 - [Recall](https://www.getrecall.ai/) - Summarize Anything, Forget Nothing
 - [Talently AI](https://interview.talently.ai/?utm_source=mahseema-awesome-ai-tool&utm_medium=c_and_p&utm_campaign=tool-listing) - An Al interviewer that conducts live, conversational interviews and gives real-time evaluations to effortlessly identify top performers and scale your recruitment process. 
+- [TailorTask](https://wwww.tailortask.ai) - Automate any boring and repetitive task, without having to learn a new tool
 
 ### Meeting assistants
 
@@ -202,8 +218,12 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Marblism](https://marblism.com) - Generate a SaaS boilerplate from a prompt.
 - [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter) - Accelerate developer productivity and code security with our open-source AI.
 - [AI Kernel Explorer](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
+- [WhoDB](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 
 ## Image
+
+*For a more complete list of AI Image tools visit: [Best Image AI Tools](https://github.com/mahseema/awesome-ai-tools/blob/main/IMAGE.md) or [Awesome AI Image](https://github.com/xaramore/awesome-ai-image)*
+
 
 ### Models
 
@@ -319,6 +339,23 @@ Welcome to Awesome AI Tools! Dive into my curated list of AI list, featuring top
 - [Ecrett Music](https://www.ecrettmusic.com) - [Review](https://theresanai.com/ecrett-music) - Designed for video creators, offering royalty-free music.
 - [Loudly](https://www.loudly.com) - [Review](https://theresanai.com/loudly) - Combines AI music generation with a social platform for collaboration.
 - [Soundful](https://www.soundful.com) - [Review](https://theresanai.com/soundful) - High-quality, royalty-free music for content creators.
+
+
+
+### Marketing AI Tools
+
+*You can also find  more comprehensive list on *[Marketing List](https://github.com/mahseema/awesome-ai-tools/blob/main/marketing.md)*
+
+- **[Jasper AI](https://www.jasper.ai/)** - AI-powered tool for generating marketing content like blogs, emails, and ad copy.
+- **[Mutiny](https://www.mutinyhq.com/)** - Personalization platform to improve website conversions using AI.
+- **[Clearbit](https://clearbit.com/)** - Lead enrichment and data intelligence platform.
+- **[Seventh Sense](https://www.theseventhsense.com/)** - AI tool for email send time optimization.
+- **[Smartly.io](https://www.smartly.io/)** - Automates social media ad creation and optimization.
+- **[Adzooma](https://www.adzooma.com/)** - AI-powered PPC campaign management platform.
+- **[Phrasee](https://www.phrasee.co/)** - AI tool that generates optimized marketing copy.
+- **[Crimson Hexagon](https://www.crimsonhexagon.com/)** - AI-based social media sentiment analysis platform.
+- **[MarketMuse](https://www.marketmuse.com/)** - SEO content optimization platform using AI.
+- **[Chatfuel](https://www.chatfuel.com/)** - AI-driven chatbot for automating customer engagement on Messenger.
 
 
 ### Phone Calls
