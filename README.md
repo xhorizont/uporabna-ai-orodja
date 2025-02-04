@@ -478,7 +478,7 @@
 - [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 - [Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing) 
 - [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
-- [Awesome AI Marketing](https://github.com/xaramore/awesome-ai-marketing) 
+- [Awesome AI Marketing](https://github.com/sarahdanesh/awesome-ai-marketing) 
 - [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
 - [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
 - [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
